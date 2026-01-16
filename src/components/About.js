@@ -32,9 +32,9 @@ const About = () => {
             quisquam harum nam cumque temporibus explicabo dolorum sapiente odio
             unde dolor?
           </p>
-          <a href="#" class="btn">
+          {/* <a href="#" class="btn" >
             read more
-          </a>
+          </a> */}
         </article>
       </div>
     </section>
